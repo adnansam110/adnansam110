@@ -7,7 +7,7 @@
 <img width="700" align="centre" src="https://binaryinformatics.com/wp-content/uploads/2019/01/MERN-Stack-Development-and-Consulting-Services.jpg"/>
 
 #### Unusual Stuff😄
-- 🌱 I’m have expreince of working on various JavaScript libraries and frameworks like React Native, React JS,Next Js, Express JS, MongoDB and Node JS along with Firebase, and GraphQL
+- 🌱 I have expreince of working on various JavaScript libraries and frameworks like React Native, React JS,Next Js, Express JS, MongoDB and Node JS along with Firebase, and GraphQL
 - 💬 JavaScript Enthusiast
 
 #### Stack :blue_book:
