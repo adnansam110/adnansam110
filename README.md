@@ -2,7 +2,7 @@
 ### I'm a student of BS Computer Science ✨
 
 - 🔭 I’m currently working on Javascript and its multiple frameworks!
-- 📫 How to reach me: adnansameer62@gmail.com or on <a href="https://www.instagram.com/adnansamir__/" class="button icon search">Instagram</a> 
+- 📫 How to reach me: adnansameer62@gmail.com or on <a href="https://www.linkedin.com/in/adnan-sameer-785103201/" class="button icon search">LinkedIn</a> 
 
 <img width="700" align="centre" src="https://binaryinformatics.com/wp-content/uploads/2019/01/MERN-Stack-Development-and-Consulting-Services.jpg"/>
 
