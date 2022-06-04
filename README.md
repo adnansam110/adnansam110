@@ -1,5 +1,5 @@
 # Hello folks 👋
-### I'm a student of BS Computer Science ✨
+### I'm a Software Engineer mostly working with JavaScript ✨
 
 - 🔭 I’m currently working on Javascript and its multiple frameworks!
 - 📫 How to reach me: adnansameer62@gmail.com or on <a href="https://www.linkedin.com/in/adnan-sameer-785103201/" class="button icon search">LinkedIn</a> 
