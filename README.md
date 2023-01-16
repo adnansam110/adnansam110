@@ -1,7 +1,7 @@
 # Hello folks 👋
-### I'm a Software Engineer mostly working with JavaScript ✨
+### I'm a Software Engineer with more than 2 years of professional experiencet ✨
 
-- 🔭 I’m currently working on Javascript and its multiple frameworks!
+- 🔭 I’m currently working on Javascript and Dart to build Cool Web and Mobile Applications!
 - 📫 How to reach me: adnansameer62@gmail.com or on <a href="https://www.linkedin.com/in/adnan-sameer-785103201/" class="button icon search">LinkedIn</a> 
 
 <img width="700" align="centre" src="https://binaryinformatics.com/wp-content/uploads/2019/01/MERN-Stack-Development-and-Consulting-Services.jpg"/>
